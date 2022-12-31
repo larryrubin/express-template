@@ -1,0 +1,7 @@
+# Enter your secret environment vars here and rename this file to .env
+
+# .env is ignored via .gitignore so your private keys/tokens/secrets
+# don't end up in your source code repo
+
+MY_SECRET=[value]
+MY_OTHER_SECRET=[another value]
